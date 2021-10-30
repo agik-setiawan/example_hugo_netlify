@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on johndoe</title>
+    <link>http://www.example.com/posts/</link>
+    <description>Recent content in Posts on johndoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Oct 2020 09:57:25 +0000</lastBuildDate><atom:link href="http://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Merubah Website menjadi aplikasi Desktop</title>
+      <link>http://www.example.com/posts/merubah-website-menjadi-aplikasi-desktop/</link>
+      <pubDate>Sat, 10 Oct 2020 09:57:25 +0000</pubDate>
+      
+      <guid>http://www.example.com/posts/merubah-website-menjadi-aplikasi-desktop/</guid>
+      <description>Bagaimana caranya merubah website menjadi aplikasi desktop?.
+Caranya cukup mudah, bahkan dengan waktu kurang dari 10 menit. yang perlu kita persiapkan adalah sebagai berikut:
+ NodeJS ElectronJS Nativefier  Pertama install terlebih dahulu NodeJS. ketika menginstal NodeJS untuk OS Windows akan otomatis terinstall NPM (Node Package Manager), untuk linuk mungkin harus install terpisah.
+Setelah NodeJS sudah terinstall lanjut untuk menginstall ElectronJS dengan cara menjalankan perintah &amp;ldquo;npm i -g electron&amp;rdquo; di terminal atau CMD</description>
+    </item>
+    
+  </channel>
+</rss>
